@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GooglePlayServiceSimpleSample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">644340138045</string>
+    <string name="correct_guess_achievement_badge1">CgkIvYCpreASEAIQAg</string>
+    <string name="correct_guess_achievement_badge2">CgkIvYCpreASEAIQAw</string>
+    <string name="correct_guess_achievement_badge3">CgkIvYCpreASEAIQBA </string>
+    <string name="number_guesses_leaderboard">CgkIvYCpreASEAIQCA</string>
+    <string name="my_leaderboards">My Leaderboards</string>
+    <string name="my_badges">My Badges</string>
+    <string name="enter_score_">"Enter score ! "</string>
+    <string name="save_score">Save Score</string>
+
+</resources>
